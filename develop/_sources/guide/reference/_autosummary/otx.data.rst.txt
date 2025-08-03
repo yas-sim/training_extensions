@@ -1,0 +1,37 @@
+otx.data
+========
+
+.. automodule:: otx.data
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   otx.data.dataset
+   otx.data.entity
+   otx.data.factory
+   otx.data.module
+   otx.data.samplers
+   otx.data.transform_libs
+   otx.data.utils
+
